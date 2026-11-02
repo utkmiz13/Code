@@ -7,6 +7,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,9 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
