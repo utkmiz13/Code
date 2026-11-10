@@ -6,6 +6,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
+| [0200-number-of-islands](https://github.com/utkmiz13/DSA/tree/master/0200-number-of-islands) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/utkmiz13/DSA/tree/master/1267-count-servers-that-communicate) |
@@ -65,18 +66,22 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/utkmiz13/DSA/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/utkmiz13/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/utkmiz13/DSA/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/utkmiz13/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/utkmiz13/DSA/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/utkmiz13/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/utkmiz13/DSA/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/utkmiz13/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Counting
 |  |
