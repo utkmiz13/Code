@@ -13,6 +13,7 @@ A collection of LeetCode questions
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/utkmiz13/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/utkmiz13/DSA/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/utkmiz13/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/utkmiz13/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
