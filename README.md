@@ -90,4 +90,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/utkmiz13/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/utkmiz13/DSA/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
