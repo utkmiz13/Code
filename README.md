@@ -37,6 +37,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/utkmiz13/DSA/tree/master/0273-integer-to-english-words) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/utkmiz13/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## String
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/utkmiz13/DSA/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/utkmiz13/DSA/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
