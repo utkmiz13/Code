@@ -56,10 +56,12 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/utkmiz13/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkmiz13/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0273-integer-to-english-words](https://github.com/utkmiz13/DSA/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
@@ -138,4 +141,24 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/utkmiz13/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
