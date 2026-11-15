@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/utkmiz13/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkmiz13/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkmiz13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/utkmiz13/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/utkmiz13/DSA/tree/master/1882-process-tasks-using-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/utkmiz13/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkmiz13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/utkmiz13/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Stack
@@ -46,6 +48,7 @@ A collection of LeetCode questions
 | [0273-integer-to-english-words](https://github.com/utkmiz13/DSA/tree/master/0273-integer-to-english-words) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkmiz13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/utkmiz13/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
@@ -140,6 +143,7 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkmiz13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/utkmiz13/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
