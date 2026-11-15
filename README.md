@@ -5,6 +5,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/utkmiz13/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkmiz13/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/utkmiz13/DSA/tree/master/0200-number-of-islands) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/utkmiz13/DSA/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
