@@ -46,6 +46,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/utkmiz13/DSA/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/utkmiz13/DSA/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkmiz13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0273-integer-to-english-words](https://github.com/utkmiz13/DSA/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/utkmiz13/DSA/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/utkmiz13/DSA/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
