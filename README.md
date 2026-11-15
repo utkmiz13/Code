@@ -30,6 +30,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
+| [0264-ugly-number-ii](https://github.com/utkmiz13/DSA/tree/master/0264-ugly-number-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkmiz13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/utkmiz13/DSA/tree/master/3693-climbing-stairs-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/utkmiz13/DSA/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/utkmiz13/DSA/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/utkmiz13/DSA/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/utkmiz13/DSA/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0264-ugly-number-ii](https://github.com/utkmiz13/DSA/tree/master/0264-ugly-number-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/utkmiz13/DSA/tree/master/0264-ugly-number-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/utkmiz13/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/utkmiz13/DSA/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
