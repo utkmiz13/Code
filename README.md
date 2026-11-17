@@ -26,12 +26,14 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkmiz13/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/utkmiz13/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/utkmiz13/DSA/tree/master/0264-ugly-number-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkmiz13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/utkmiz13/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/utkmiz13/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Stack
@@ -134,6 +136,7 @@ A collection of LeetCode questions
 | [0273-integer-to-english-words](https://github.com/utkmiz13/DSA/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/utkmiz13/DSA/tree/master/0282-expression-add-operators) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/utkmiz13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/utkmiz13/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
 |  |
 | ------- |
