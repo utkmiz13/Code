@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkmiz13/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/utkmiz13/DSA/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/utkmiz13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/utkmiz13/DSA/tree/master/1267-count-servers-that-communicate) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utkmiz13/DSA/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/utkmiz13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkmiz13/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/utkmiz13/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
@@ -87,6 +89,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkmiz13/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/utkmiz13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkmiz13/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Depth-First Search
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/utkmiz13/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -183,4 +187,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/utkmiz13/DSA/tree/master/0282-expression-add-operators) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/utkmiz13/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/utkmiz13/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
