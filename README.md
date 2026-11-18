@@ -137,6 +137,7 @@ A collection of LeetCode questions
 | [0282-expression-add-operators](https://github.com/utkmiz13/DSA/tree/master/0282-expression-add-operators) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/utkmiz13/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/utkmiz13/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/utkmiz13/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Recursion
 |  |
 | ------- |
