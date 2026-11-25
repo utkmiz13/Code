@@ -27,6 +27,7 @@ A collection of LeetCode questions
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkmiz13/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/utkmiz13/DSA/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/utkmiz13/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions
 | [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/utkmiz13/DSA/tree/master/0264-ugly-number-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/utkmiz13/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions
 | [0287-find-the-duplicate-number](https://github.com/utkmiz13/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/utkmiz13/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkmiz13/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/utkmiz13/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,10 +191,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/utkmiz13/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/utkmiz13/DSA/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/utkmiz13/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -224,4 +229,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/utkmiz13/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/utkmiz13/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
