@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [0368-largest-divisible-subset](https://github.com/utkmiz13/DSA/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0598-range-addition-ii](https://github.com/utkmiz13/DSA/tree/master/0598-range-addition-ii) |
 | [1267-count-servers-that-communicate](https://github.com/utkmiz13/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/utkmiz13/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utkmiz13/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions
 | [0368-largest-divisible-subset](https://github.com/utkmiz13/DSA/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utkmiz13/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utkmiz13/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0598-range-addition-ii](https://github.com/utkmiz13/DSA/tree/master/0598-range-addition-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/utkmiz13/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/utkmiz13/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3360-stone-removal-game](https://github.com/utkmiz13/DSA/tree/master/3360-stone-removal-game) |
