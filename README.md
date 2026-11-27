@@ -30,6 +30,7 @@ A collection of LeetCode questions
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/utkmiz13/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/utkmiz13/DSA/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/utkmiz13/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/utkmiz13/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/utkmiz13/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/utkmiz13/DSA/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/utkmiz13/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/utkmiz13/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/utkmiz13/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/utkmiz13/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
